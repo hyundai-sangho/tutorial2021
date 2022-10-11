@@ -1,0 +1,2 @@
+20221011	16:17:26	cdcbd972-173e-409d-b37e-dd1c79638a4e	Log event emitted
+20221011	16:17:29	84b68ed7-a88a-4cf0-9555-56654f65c125	Log event emitted
